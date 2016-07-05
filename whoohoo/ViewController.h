@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+@property (strong) NSString* funfunfun;
 
 @end
 
